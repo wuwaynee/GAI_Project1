@@ -1,1 +1,1 @@
-# GAI_Project1
+course: Fundamentals and Applications of Generative AI
