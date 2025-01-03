@@ -1,1 +1,1 @@
-course: Fundamentals and Applications of Generative AI
+Course: Fundamentals and Applications of Generative AI
